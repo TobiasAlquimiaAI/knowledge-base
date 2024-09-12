@@ -1,10 +1,8 @@
----
+# **Estatuto Constitutivo**
 
-**Estatuto Constitutivo**
+# **Banco Estrella Azul S.A.**
 
-**Banco Estrella Azul S.A.**
-
-**Estatuto Constitutivo Actualizado**
+### **Estatuto Constitutivo Actualizado**
 
 **PRIMERA CLÁUSULA:** La entidad operará bajo el nombre de "BANCO ESTRELLA AZUL SOCIEDAD ANÓNIMA", sucediendo a la sociedad previamente conocida como "SOLARIS S.A. INSTITUCIÓN FINANCIERA Y COMERCIAL" y antes "SOLARIS INVERSIONES S.A.". Su sede principal se ubica en la ciudad de La Plata, en la calle San Martín 1234, con la facultad de establecer sucursales, filiales o representaciones tanto en territorio nacional como internacional, conforme a la normativa vigente para entidades bancarias.
 
