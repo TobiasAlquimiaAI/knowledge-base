@@ -1,12 +1,10 @@
 # **ESTATUTO CORPORATIVO DE DIVERSIFICADOS Y MERCADOS NUEVOS S.A.**
 
-**Agosto 2024**
-(Aprobado por la Asamblea General Ordinaria y Extraordinaria del 10/08/2024)
-
----
 ## **ESTATUTO CORPORATIVO**
 ## **DIVERSIFICADOS Y MERCADOS NUEVOS S.A.**
----
+
+**Agosto 2024**
+(Aprobado por la Asamblea General Ordinaria y Extraordinaria del 10/08/2024)
 
 **Capítulo I. NOMBRE, PROPÓSITO, DURACIÓN Y SEDE**
 
